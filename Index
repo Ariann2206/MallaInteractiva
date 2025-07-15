@@ -1,1 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Malla Curricular FyBQ 2021</title>
+  <link rel="stylesheet" href="FyBQ.css">
+</head>
+<body>
+  <header>
+    <h1>Malla Curricular – Farmacia y Bioquímica 2021</h1>
+  </header>
+
+  <main id="malla-container"></main>
+
+  <footer>
+    <p>© 2025 – Universidad Herediana | Plan FyBQ 2021</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
 
