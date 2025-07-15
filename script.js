@@ -1,6 +1,6 @@
 
 // script.js completo con los 10 ciclos, prerrequisitos y funcionalidad de desbloqueo dinámica
-definirconst malla = {
+const malla = {
   "1er Ciclo": [
     { codigo: "C0034", nombre: "Biología I", creditos: 5, horas: "64T/32P", prerequisitos: [] },
     { codigo: "C0500", nombre: "Química General I", creditos: 3, horas: "32T/32P", prerequisitos: [] },
